@@ -5,7 +5,6 @@ import android.app.Application;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.app.NotificationManagerCompat;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
